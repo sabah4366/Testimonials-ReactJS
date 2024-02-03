@@ -1,0 +1,47 @@
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+   
+
+}
+.container{
+    height: 100vh;
+    text-align: center;
+}
+
+.testimonials{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    color:white;
+    text-align: center;
+
+     
+     
+}
+
+.testimonials h1{
+    font-family: "Times New Roman", Times, serif;;
+    text-align: center;
+}
+section{
+    padding-top: 30px;
+    background-color:rgb(65, 192, 204);
+    width:700px;
+    height: 200px;
+    border-radius:10px;
+  
+    
+    
+}
+
+button{
+    font-weight: bold;
+  }
+.container-fluid{
+    background-color:rgb(138, 185, 189);
+}
